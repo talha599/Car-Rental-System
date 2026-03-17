@@ -52,20 +52,3 @@ This project is open source and available under the MIT License.
 
 ---
 
-## ❤️ Acknowledgements
-
-Built as a practical Python project to learn OOP and basic system design.
-
-```
-
----
-
-If you want, I can also help you generate:
-
-✅ badges (build, license, Python version, downloads)  
-✅ a screenshot section  
-✅ a **GitHub landing banner** for better presentation
-
-Just tell me! 🚀
-::contentReference[oaicite:1]{index=1}
-```
