@@ -34,7 +34,7 @@ Car-Rental-System/
 │── README.md
 ```
 
-*(Update this section based on your actual repo content)*
+
 
 ---
 
@@ -48,7 +48,6 @@ Feel free to open issues, submit pull requests, and share ideas for improvements
 ## 📄 License
 
 This project is open source and available under the MIT License.
-*(Add the actual license file if you include one)*
 
 ---
 
